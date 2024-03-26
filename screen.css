@@ -39,14 +39,18 @@ h2 {
 li {
     list-style: triangle;
     color: gray;
+    display: inline;
 }
 b {
     color: black;
+    padding-left: 5px;
 }
 .source {
     font-size: 12px;
+    display: inline;
 }
 p {
     font-size: 10px;
     color: gray;
+    padding-left: 15px;
 }
