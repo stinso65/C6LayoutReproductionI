@@ -11,6 +11,7 @@ body {
 .logo {
     color: white;
     border-style: solid;
+    border-width: 2px;
     margin-left: 5px;
 }
 h1 {
@@ -21,9 +22,11 @@ h1 {
 h2 {
     font-size: medium;
     font-weight: 500;
+    display: inline;
 }
 .login {
     margin-left: 1300px;
+    padding-top: 12px;
 }
 .content {
     background: #F6F6F0;
@@ -35,6 +38,9 @@ h2 {
     min-height: 18px;
     align-items: flex-start;
     justify-content: center;
+}
+.numbers {
+    color: gray;
 }
 li {
     list-style: triangle;
