@@ -20,10 +20,10 @@ h1 {
 }
 h2 {
     font-size: medium;
-    font-weight: 300;
+    font-weight: 500;
 }
 .login {
-    padding-left: 380px;
+    margin-left: 1300px;
 }
 .content {
     background: #F6F6F0;
