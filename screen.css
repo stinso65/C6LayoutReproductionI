@@ -31,6 +31,9 @@ li {
     list-style: triangle;
     color: gray;
 }
+b {
+    color: black;
+}
 .source {
     font-size: 12px;
 }
