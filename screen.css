@@ -1,6 +1,6 @@
 /* Add screen styles below */
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .navbar {
     background: orangered;
@@ -26,4 +26,15 @@ h2 {
     min-height: 18px;
     align-items: flex-start;
     justify-content: center;
+}
+li {
+    list-style: triangle;
+    color: gray;
+}
+.source {
+    font-size: 12px;
+}
+p {
+    font-size: 10px;
+    color: gray;
 }
